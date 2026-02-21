@@ -20,7 +20,7 @@ In submission to *Computers, Environment and Urban Systems* (CEUS). arXiv prepri
 
 ## Experience
 
-**MAPFRE Insurance** -- Advanced Analytics Intern, Summer 2026. Predictive models and ML applications for insurance risk assessment.
+**SafeWalk** -- Researcher & Developer, September 2025 -- Present. Designed a corridor-based ground-truth evaluation framework comparing five crime risk prediction methods for pedestrian safety routing across three U.S. cities. Built the end-to-end spatiotemporal pipeline and deployed the full system as a hybrid TypeScript/Python backend with a native SwiftUI iOS application.
 
 **Rhode Island Novelty** -- Machine Learning Intern, Summer 2025. Time-series forecasting (90% accuracy), image classification (96--99% accuracy across hierarchical taxonomies), and semantic search using vector embeddings over product and customer data.
 
