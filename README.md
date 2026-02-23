@@ -14,7 +14,7 @@ In submission to *Computers, Environment and Urban Systems* (CEUS). arXiv prepri
 
 ## Projects
 
-**[SafeWalk](https://github.com/quinnarnold/safewalk)** -- AI-powered pedestrian safety routing. Risk-weighted Dijkstra routing over city street graphs with a hybrid TypeScript/Python backend on Google Cloud Run and a native SwiftUI iOS app serving Boston, Chicago, and New York. Full pipeline from research to deployed product: OSM graph extraction, KDTree-based crime assignment, XGBoost risk prediction, Pareto-optimal route selection, and Mapbox map-matched navigation.
+**[SafeWalk](https://apps.apple.com/us/app/safewalk-ai/id6754341043)** -- AI-powered pedestrian safety routing. Risk-weighted Dijkstra routing over city street graphs with a hybrid TypeScript/Python backend on Google Cloud Run and a native SwiftUI iOS app serving Boston, Chicago, and New York. Full pipeline from research to deployed product: OSM graph extraction, KDTree-based crime assignment, XGBoost risk prediction, Pareto-optimal route selection, and Mapbox map-matched navigation.
 
 **[from-scratch](https://github.com/quinnarnold/from-scratch)** -- Neural networks and ML fundamentals built from scratch in Python. Scalar-level automatic differentiation engine with topological-sort backpropagation, multi-layer perceptrons, character-level language models trained on 32K names, and a NumPy-based CNN framework with manual forward/backward passes for all layers (Conv2d, BatchNorm, pooling) targeting CIFAR-10.
 
