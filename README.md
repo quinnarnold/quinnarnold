@@ -46,4 +46,4 @@ Novel architecture bridging the gap between prediction accuracy and downstream d
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/quinnkarnold) | qarnold@bryant.edu
+[Portfolio](https://quinnarnold.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/quinnkarnold) | qarnold@bryant.edu
