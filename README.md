@@ -20,12 +20,6 @@ Dynamic patrol routing system generating shift-aware routes optimized for crime 
 
 Novel architecture bridging the gap between prediction accuracy and downstream decision quality for spatial optimization tasks. Explores decision-focused learning where the model optimizes directly for routing outcomes rather than crime count prediction — addressing the predict-then-optimize misalignment identified in the SafeWalk paper. Targeting NeurIPS 2026 Workshop.
 
-## Projects
-
-**[SafeWalk](https://apps.apple.com/us/app/safewalk-ai/id6754341043)** — AI-powered pedestrian safety routing. Risk-weighted Dijkstra routing over city street graphs with a hybrid TypeScript/Python backend on Oracle OCI and a native SwiftUI iOS app serving three U.S. cities. Full pipeline from research to deployed product: OSM graph extraction, KDTree-based crime assignment, KDE risk surfaces, Pareto-optimal route selection, and Mapbox map-matched navigation.
-
-**[from-scratch](https://github.com/quinnarnold/from-scratch)** — Neural networks and ML fundamentals built from scratch in Python. Scalar-level automatic differentiation engine with topological-sort backpropagation, multi-layer perceptrons, character-level language models trained on 32K names, and a NumPy-based CNN framework with manual forward/backward passes for all layers (Conv2d, BatchNorm, pooling) targeting CIFAR-10.
-
 ## Experience
 
 **SafeWalk** — Researcher & Developer, September 2025 — Present. Designed a corridor-based ground-truth evaluation framework comparing five crime risk prediction methods for pedestrian safety routing across three U.S. cities. Built the end-to-end spatiotemporal pipeline and deployed the full system as a hybrid TypeScript/Python backend on Oracle OCI with a native SwiftUI iOS application.
