@@ -1,43 +1,55 @@
 # Quinn Arnold
 
-Applied Mathematics & Statistics at Bryant University (B.S., December 2026). My interests center on machine learning algorithms, deep learning architectures, mathematical optimization, and how model and architecture choices shape downstream performance in real-world systems — understanding how and why learning systems work, not just applying them. Broader interests include computer vision, agentic AI, graph algorithms, distributed training, safety & alignment, and spatial statistics.
+Applied Mathematics & Statistics at Bryant University (B.S., December 2026). My work centers on machine learning, reinforcement learning, optimization, and safety-focused applied ML systems: building models, testing where they fail, and connecting learned signals to downstream decisions under constraints.
 
-Pursuing PhD programs and research scientist roles in machine learning.
+I am especially interested in reinforcement learning, game theory, LLM safety, decision-focused learning, graph algorithms, and responsible ML evaluation. Current work spans deep RL for combinatorial auctions, prompt-injection defense for LLM systems, KDE-residual GNN architectures, and ML model governance focused on bias assessment and production-readiness review.
 
-## Research
+## Research & Technical Experience
 
-**When Spatial Statistics Outperform Machine Learning: Corridor-Based Ground-Truth Evaluation of Crime Risk Prediction for Pedestrian Safety Routing**
+**Advanced Analytics Intern, MAPFRE Insurance**
 
-Comparative evaluation of five risk prediction methods across 1.15M street segments and 36,000 route evaluations per method, demonstrating that KDE achieves 54.5% greater crime avoidance than XGBoost and 53.3% greater than GNN for pedestrian routing. The work investigates why simpler statistical methods can outperform complex learned models in structured spatial domains — a question about model assumptions and inductive bias, not just urban computing.
+Contributing to machine-learning model governance work focused on bias assessment, mitigation, and production-readiness review across Python, statistical analysis, multivariate methods, AWS SageMaker, and enterprise development workflows. Also developing LLM-assisted image-analysis workflows that compare visual hazard descriptions against inspection reports to surface discrepancies for underwriting review.
 
-Submitted to *Journal of Transport Geography* (Elsevier). 2026.
+**Founder & Researcher, GuidePost Technologies LLC**
 
-**Adaptive Patrol Route Optimization** *(in progress)*
+Co-authored a police-informed patrol-routing research paper currently under peer review, studying crime-weighted loop generation and coverage tradeoffs on a 24,000-node street network. Developed KDE-weighted graph-routing and fleet-coordination algorithms, parity-tested core behavior across 5,000+ simulated patrol shifts with 800+ tests passing, and built the production decision-support platform for route generation, officer workflow support, dispatch interruption handling, authentication, WebSocket recovery, and audit exports.
 
-Dynamic patrol routing system generating shift-aware routes optimized for crime deterrence using continuously updated spatial risk surfaces. Evaluates multiple routing strategies against real holdout crime data across a major U.S. city, with a fleet coordination layer for multi-officer dispatch and mid-patrol reallocation. Targeting journal submission and department pilot, Summer 2026.
+**Machine Learning Intern, Rhode Island Novelty**
 
-**Decision-Focused Spatial Prediction Architecture** *(in progress)*
+Built time-series forecasting models with automated feature engineering and scenario simulation for inventory and revenue planning. Built an image-classification pipeline achieving 96-99% accuracy across hierarchical product taxonomies with automated metadata extraction and label inconsistency detection. Engineered a semantic-search system using vector embeddings to translate natural-language business queries into executable SQL over product and customer data.
 
-Novel architecture bridging the gap between prediction accuracy and downstream decision quality for spatial optimization tasks. Explores decision-focused learning where the model optimizes directly for routing outcomes rather than crime count prediction — addressing the predict-then-optimize misalignment identified in the SafeWalk paper. Targeting NeurIPS 2026 Workshop.
+**Researcher & Developer, SafeWalk**
 
-## Experience
+Built pedestrian-safety routing and evaluation systems comparing classical spatial methods and learned models across 36,000 routes on Chicago's 1.15M-segment walking network, motivating later decision-focused learning work. Developed spatiotemporal risk pipelines with graph extraction, crime-to-edge assignment, rolling-window features, and route-level evaluation for downstream routing objectives.
 
-**SafeWalk** — Researcher & Developer, September 2025 — Present. Designed a corridor-based ground-truth evaluation framework comparing five crime risk prediction methods for pedestrian safety routing across three U.S. cities. Built the end-to-end spatiotemporal pipeline and deployed the full system as a hybrid TypeScript/Python backend on Oracle OCI with a native SwiftUI iOS application.
+## Selected Work
 
-**Rhode Island Novelty** — Machine Learning Intern, Summer 2025. Time-series forecasting (90% accuracy), image classification (96–99% accuracy across hierarchical taxonomies), and semantic search using vector embeddings over product and customer data.
+**Reinforcement Learning for Combinatorial Auctions**
 
-**MAPFRE Insurance** — Advanced Analytics Intern, Summer 2026 (Incoming). Predictive models and ML applications for insurance risk assessment.
+Investigating failure modes and generalization gaps in a deep-RL combinatorial-auction system after strong CAT scheduling results but poor transfer to broader auction settings; current Bryant faculty/student research collaboration.
+
+**[Ask Tupper / LLM Injection Defense](https://github.com/quinnarnold/llm-injection-defense)**
+
+Fine-tuned Qwen3-32B with QLoRA on a single consumer GPU in 90 minutes; built a six-layer prompt-injection defense pipeline reducing attack success from 20% to 0% across 15 vectors. Custom RoBERTa classifier achieves 95.3% injection recall; hybrid RAG over 530 university documents lifts factual accuracy from 60% to 74%.
+
+**KDE-Residual GNN with Decision-Focused Learning**
+
+Built a frozen KDE structural prior plus learned GNN residual architecture trained through differentiable optimization to improve downstream constrained-routing decisions rather than pointwise prediction accuracy.
+
+**[Neural Networks from Scratch](https://github.com/quinnarnold/from-scratch)**
+
+Implemented neural-network and machine-learning fundamentals from first principles, including scalar-level automatic differentiation, backpropagation, multilayer perceptrons, and character-level language models.
 
 ## Skills
 
 **Languages:** Python, SQL, Swift, TypeScript, JavaScript, R
 
-**ML and Scientific Computing:** PyTorch, scikit-learn, XGBoost, NumPy, SciPy, pandas, GeoPandas, Shapely, OSMnx
+**ML & Deep Learning:** PyTorch, PyTorch Geometric, QLoRA, RoBERTa, RAG, reinforcement learning, model evaluation, bias assessment, automatic differentiation, backpropagation, gradient descent
 
-**Algorithms:** Dijkstra, KDTree, graph algorithms (igraph, NetworkX), KDE, UMAP, Pareto optimization
+**Algorithms & Mathematics:** optimization, statistical learning, multivariate analysis, graph algorithms, Dijkstra, KDTree, KDE, UMAP, Pareto optimization
 
-**Tools:** Git, Docker, LaTeX, Oracle OCI
+**Scientific Computing & Tools:** NumPy, SciPy, pandas, GeoPandas, Shapely, OSMnx, H3, Matplotlib, Git, Docker, AWS SageMaker
 
-## Contact
+## Links
 
-[Portfolio](https://quinnarnold.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/quinnkarnold) | qarnold@bryant.edu
+[Portfolio](https://quinnarnold.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/quinnkarnold) | [GitHub](https://github.com/quinnarnold) | qarnold@bryant.edu
