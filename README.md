@@ -1,8 +1,8 @@
 # Quinn Arnold
 
-Applied Mathematics & Statistics major at Bryant University (B.S., December 2026). My work centers on machine learning, reinforcement learning, optimization, and safety-focused applied ML systems: building models, testing where they fail, and connecting learned signals to downstream decisions under constraints.
+Applied Mathematics & Statistics major at Bryant University (B.S., December 2026). My work centers on LLM safety, responsible ML evaluation, optimization, and decision-focused learning: building models, testing where they fail, and connecting learned signals to downstream decisions under constraints.
 
-Research interests include reinforcement learning, game theory, LLM safety, decision-focused learning, graph algorithms, and responsible ML evaluation. Current work spans deep RL for combinatorial auctions, prompt-injection defense for LLM systems, KDE-residual GNN architectures, and ML model governance focused on bias assessment and production-readiness review.
+Research interests include LLM safety, responsible ML, decision-focused learning, graph algorithms, optimization, reinforcement learning, and game theory. Current work spans prompt-injection defense for LLM systems, ML model governance focused on bias assessment and production-readiness review, KDE-residual GNN architectures, and an early Bryant faculty/student collaboration investigating deep-RL generalization in combinatorial auctions.
 
 ## Research & Technical Experience
 
@@ -31,11 +31,6 @@ Research interests include reinforcement learning, game theory, LLM safety, deci
 
 ## Selected Work
 
-**Reinforcement Learning for Combinatorial Auctions**
-
-- Investigating failure modes and generalization gaps in a deep-RL combinatorial-auction system after strong CAT scheduling results but poor transfer to broader auction settings.
-- Current Bryant faculty/student research collaboration.
-
 **[Ask Tupper / LLM Injection Defense](https://github.com/quinnarnold/llm-injection-defense)**
 
 - Fine-tuned Qwen3-32B with QLoRA on a single consumer GPU in 90 minutes.
@@ -46,6 +41,11 @@ Research interests include reinforcement learning, game theory, LLM safety, deci
 
 - Built a frozen KDE structural prior plus learned GNN residual architecture trained through differentiable optimization.
 - Optimizes downstream constrained-routing decisions rather than pointwise prediction accuracy.
+
+**Reinforcement Learning for Combinatorial Auctions**
+
+- Investigating initialization behavior and generalization gaps in a deep-RL combinatorial-auction system after strong CAT scheduling results but poor transfer to broader auction settings.
+- Early Bryant faculty/student research collaboration.
 
 **[Neural Networks from Scratch](https://github.com/quinnarnold/from-scratch)**
 
