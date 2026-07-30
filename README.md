@@ -2,6 +2,8 @@
 
 I’m an applied mathematics and statistics researcher working across reinforcement learning, deep learning, LLM safety and evaluation, responsible ML, graph optimization, and production AI systems.
 
+I’m completing a B.S. in Applied Mathematics & Statistics at Bryant University, expected December 2026.
+
 My current research includes recurrent PPO for partially observed combinatorial auctions, route optimization under operational constraints, and rigorous evaluation for LLM and ML systems. I’m especially interested in connecting experimental results to decisions and systems that can be audited in practice.
 
 Open to research scientist and applied ML opportunities, including AI-lab roles focused on reinforcement learning, deep learning, and reliable AI.
