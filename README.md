@@ -1,12 +1,12 @@
 # Quinn Arnold
 
-Confirmed. Incoming Associate Data Scientist at [Opportunity Insights](https://opportunityinsights.org/), [Harvard University](https://www.harvard.edu/) — January 2027.
-
 I’m an applied mathematics and statistics researcher working on reinforcement learning, deep learning, LLM safety and evaluation, and trustworthy AI.
 
 I’m completing a B.S. in Applied Mathematics & Statistics at Bryant University, expected December 2026.
 
 My current work includes FastCombo, GuidePost, and *Black Box to Whom?*
+
+Incoming Associate Data Scientist at [Opportunity Insights](https://opportunityinsights.org/), [Harvard University](https://www.harvard.edu/) — January 2027.
 
 ## Research and Work
 
