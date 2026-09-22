@@ -23,4 +23,4 @@ I contribute to open-source projects across machine learning, reinforcement lear
 
 ## Links
 
-[Portfolio](https://quinnarnold.github.io/portfolio/) · [Résumé](https://quinnarnold.github.io/portfolio/assets/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/quinnkarnold) · [GitHub](https://github.com/quinnarnold) · [Email](mailto:qarnold@bryant.edu)
+[Portfolio](https://quinnarnold.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/quinnkarnold) · [GitHub](https://github.com/quinnarnold) · [Email](mailto:qarnold@bryant.edu)
