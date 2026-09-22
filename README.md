@@ -8,7 +8,7 @@ I'm completing a B.S. in Applied Mathematics & Statistics at Bryant University (
 
 ## Current research
 
-- **FastCombo** — Deep reinforcement learning for price discovery in partially observed combinatorial auctions, using a recurrent bidder–item graph policy. Preprint forthcoming.
+- **FastCombo** — Deep reinforcement learning for price discovery in partially observed combinatorial auctions. Preprint forthcoming.
 - **Black Box to Whom?** — Investigating what constitutes evidence of mechanistic understanding of language models, through causal interventions, held-out predictions, generalization, and coverage.
 
 ## Selected projects
