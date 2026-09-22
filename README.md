@@ -19,16 +19,14 @@ I'm completing a B.S. in Applied Mathematics & Statistics at Bryant University (
 
 ## Selected open-source contributions
 
-I contribute to the tools used to train, evaluate, and study learning systems. Examples of merged work:
+I contribute to the tools used to train, evaluate, and study learning systems.
 
 | Project | Contribution |
 | --- | --- |
-| [TorchRL](https://github.com/pytorch/rl) | [Implemented shared MLP output bias](https://github.com/pytorch/rl/pull/4169) and strengthened numerical tests for RL and LLM losses. |
-| [Mava](https://github.com/instadeepai/Mava) | [Unified advantage estimation in MAT and Sable](https://github.com/instadeepai/Mava/pull/1211), alongside fixes to JAX compatibility and training metrics. |
-| [Jumanji](https://github.com/instadeepai/jumanji) | [Added a public observation-from-state API](https://github.com/instadeepai/jumanji/pull/310) across environments and wrappers. |
-| [TorchGeo](https://github.com/torchgeo/torchgeo) | [Corrected self-supervised augmentations for standardized inputs](https://github.com/torchgeo/torchgeo/pull/4055). |
-| [UniRL](https://github.com/Tencent-Hunyuan/UniRL) | [Fixed Hugging Face checkpoint resolution for meta-initialization](https://github.com/Tencent-Hunyuan/UniRL/pull/405). |
-
-[More merged contributions](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Aquinnarnold+-user%3Aquinnarnold&type=pullrequests)
+| [TorchRL](https://github.com/pytorch/rl) | Implemented shared MLP output bias and strengthened numerical tests for RL and LLM losses. |
+| [Mava](https://github.com/instadeepai/Mava) | Unified advantage estimation in MAT and Sable, alongside fixes to JAX compatibility and training metrics. |
+| [Jumanji](https://github.com/instadeepai/jumanji) | Added a public observation-from-state API across environments and wrappers. |
+| [TorchGeo](https://github.com/torchgeo/torchgeo) | Corrected self-supervised augmentations for standardized inputs. |
+| [UniRL](https://github.com/Tencent-Hunyuan/UniRL) | Fixed Hugging Face checkpoint resolution for meta-initialization. |
 
 Previously, I worked on model governance and LLM-assisted underwriting workflows at **MAPFRE Insurance**, and forecasting, computer vision, and semantic search at **Rhode Island Novelty**.
