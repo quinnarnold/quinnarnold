@@ -5,14 +5,15 @@ Applied Mathematics & Statistics student at Bryant University, graduating Decemb
 ## Current work
 
 - **FastCombo:** reinforcement learning for price discovery in combinatorial auctions. [Paper](https://arxiv.org/abs/2610.30667).
+- **Multi-minded auctions:** learned pricing with unknown bidder preferences.
+- **Valuation learning:** learning auction valuations from demand and value queries.
 - **Independent security research:** vulnerability and exploit research in open-source software, web domains, and APIs.
 
 ## Projects
 
 - [SafeWalk](https://github.com/quinnarnold/SafeWalk) — iOS app and backend for comparing shortest and risk-weighted walking routes using public incident data.
 - [Ask Tupper](https://github.com/quinnarnold/llm-injection-defense) — campus assistant using model fine-tuning, retrieval, and prompt-injection defenses.
-- [From scratch](https://github.com/quinnarnold/from-scratch) — automatic differentiation, neural networks, and small language models.
 
-I've contributed to [TorchRL](https://github.com/pytorch/rl), [Mava](https://github.com/instadeepai/Mava), [Jumanji](https://github.com/instadeepai/jumanji), [TorchGeo](https://github.com/torchgeo/torchgeo), and [UniRL](https://github.com/Tencent-Hunyuan/UniRL).
+I've contributed to [TorchRL](https://github.com/pytorch/rl), [Mava](https://github.com/instadeepai/Mava), [Jumanji](https://github.com/instadeepai/jumanji), [Fairlearn](https://github.com/fairlearn/fairlearn), and [aeon](https://github.com/aeon-toolkit/aeon).
 
 [Portfolio](https://quinnarnold.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/quinnkarnold/) · [Email](mailto:qarnold@bryant.edu)
